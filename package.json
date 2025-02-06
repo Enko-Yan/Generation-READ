@@ -1,0 +1,24 @@
+{
+  "name": "generation-read",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enko-Yan/Generation-READ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enko-Yan/Generation-READ/issues"
+  },
+  "homepage": "https://github.com/Enko-Yan/Generation-READ#readme",
+  "dependencies": {
+    "inquirer": "^12.4.1"
+  }
+}
