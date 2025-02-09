@@ -1,6 +1,6 @@
 import inquirer from "inquirer"
 import fs from "fs"
-import { renderLicenseBadge } from "./generateMarkdown.js";
+import { renderLicenseSection } from "./generateLicense.js";
 
 const questions = [
     { type: 'input', name: 'title', message: "What is the title of your project?" }, 
@@ -21,7 +21,7 @@ function writeToFile(fileName, data) {
 
 function init() {
     inquirer.prompt(questions).then(answers => {
-        const licenseBadge = renderLicenseBadge(answers.license);
+        const licenseBadge = renderLicenseSection(answers.license);
         const readmeContent = `
 # ${answers.title}
         
