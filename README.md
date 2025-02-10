@@ -37,8 +37,10 @@ Yan Sergiyenko
 GitHub: https://github.com/Enko-Yan
 
 ## Acknowledgments
-* AI Assistance: I received help from ChatGPT and EdX Bootcamp's Learning Assistant for problem solving and debugging.
-* Various online resources were referenced such as W3Schools, MDN WebDocs, and Stack Overflow.
+I utilized various resources to assist in problem solving and debugging including:
+* [Inquirer.js Documentation](https://www.npmjs.com/package/inquirer#documentation)
+* Online references such as W3Schools, MDN WebDocs, Stack Overflow.
+* AI assistance from ChatGPT and EdX Bootcamp's Xpert Learning Assistant.
 
 ## License 
 ![Static Badge](https://img.shields.io/badge/License-MIT-purple) 
