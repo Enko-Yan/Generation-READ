@@ -1,5 +1,5 @@
 
-export function renderLicenseBadge(license) {
+function renderLicenseBadge(license) {
   
   let renderBadge = ""
 
@@ -14,7 +14,7 @@ export function renderLicenseBadge(license) {
   return renderBadge;
 }
 
-export function renderLicenseLink(license) {
+function renderLicenseLink(license) {
   let licenseLink = ""
 
   if (license == 'MIT') {
