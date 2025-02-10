@@ -36,6 +36,10 @@ NOTE: User must have Node.js installed to use this program. https://nodejs.org/e
 Yan Sergiyenko
 GitHub: https://github.com/Enko-Yan
 
+## Acknowledgments
+* AI Assistance: I received help from ChatGPT and EdX Bootcamp's Learning Assistant for problem solving and debugging.
+* Various online resources were referenced such as W3Schools, MDN WebDocs, and Stack Overflow.
+
 ## License 
 ![Static Badge](https://img.shields.io/badge/License-MIT-purple) 
 
