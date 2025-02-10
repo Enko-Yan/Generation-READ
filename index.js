@@ -4,8 +4,8 @@ import { renderLicenseSection } from "./generateLicense.js";
 
 const questions = [
     { type: 'input', name: 'title', message: "What is the title of your project?" }, 
-    { type: 'input', name: 'motivation', message: "What was your motivation for the project?" }, 
     { type: 'input', name: 'description', message: "What does your project do?" },
+    { type: 'input', name: 'motivation', message: "What was your motivation for the project?" }, 
     { type: 'input', name: 'technologies', message: "What technologies were used?" },
     { type: 'input', name: 'challenges', messages: "What challenge did you face working on this project?" }, 
     { type: 'input', name: 'installation', message: "How do you install your project?" }, 
