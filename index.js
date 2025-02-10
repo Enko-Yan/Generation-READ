@@ -6,7 +6,7 @@ const questions = [
     { type: 'input', name: 'title', message: "What is the title of your project?" }, 
     { type: 'input', name: 'description', message: "What does your project do?" },
     { type: 'input', name: 'motivation', message: "What was your motivation for the project?" }, 
-    { type: 'input', name: 'technologies', message: "What technologies were used?" },
+    { type: 'editor', name: 'technologies', message: "List the technologies used (one entry per line) This will open and external editor Close editor when finished.:" },
     { type: 'input', name: 'challenges', message: "What challenge did you face working on this project?" }, 
     { type: 'input', name: 'installation', message: "How do you install your project?" }, 
     { type: 'input', name: 'usage', message: "How do you use your project?" },
