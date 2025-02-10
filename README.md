@@ -25,7 +25,7 @@ NOTE: User must have Node.js installed to use this program. https://nodejs.org/e
 * Once the directory is reached use the command "code ." to open it in VS Code.
 * Once in VS Code open the terminal within VS Code.
 * This code uses the inquirer package so the user will be required to install it. Use the terminal in VS Code and type "npm install" to get inquirer.
-* Link to video tutorial: https://drive.google.com/file/d/180OyEzNdBD_weWnSAoZX4Re1C-Xsfefv/view?usp=sharing 
+* Link to video tutorial: https://drive.google.com/file/d/1IJ-_NpQR9td11dVBPC_VuRb__TuXbJXD/view?usp=sharing
 
 ## How To Use
 * Make sure you have the terminal open in VS Code and simply type "npm start" and press enter.
