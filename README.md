@@ -20,7 +20,7 @@ As a coding bootcamp student, my main challenge was applying the knowledge I had
 
 NOTE: User must have Node.js installed to use this program. https://nodejs.org/en. 
 
-* Clone the repository by clicking on the "code" drop down, copying the provided URL whether it's SSH or otherwise and entering "git clon <URL>" into your command line interface (CLI).
+* Clone the repository by clicking on the "code" drop down, copying the provided URL whether it's SSH or otherwise and entering "git clone <URL>" into your command line interface (CLI).
 * When in the CLI use the command "cd Generation-READ" to get to the correct directory.
 * Once the directory is reached use the command "code ." to open it in VS Code.
 * Once in VS Code open the terminal within VS Code.
